@@ -21,4 +21,4 @@ while i<7:
     i+=1
  else :
     print("Hurray !! The guess is correct")
-    break
+    break   
